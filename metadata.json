@@ -1,0 +1,5 @@
+{
+  "name": "ASISTENTE VIRTUAL COPECOM",
+  "description": "An intelligent virtual assistant powered by Gemini 2.5 Flash, specialized in answering questions about MICOOPE Debit and Credit cards based on specific financial context and contractual documents.",
+  "requestFramePermissions": []
+}
